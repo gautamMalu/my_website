@@ -179,10 +179,10 @@ body{
 	transition: all 0.3s ease-out; 
 }
 .icon2 span{
-	height: 50px;
-	width: 50px;
+	height: 55px;
+	width: 55px;
 	display: block;
-	background: url(../images/rpi.jpeg) /*no-repeat #F2F4F5 -102px -827px*/;
+	background: url(../images/rpi3.png) /*no-repeat #F2F4F5 -102px -827px*/;d
 	vertical-align: middle;
 }
 /*
