@@ -94,6 +94,7 @@ body{
 }
 .img-banner-info h2{
 	font-size:2em;
+	
 }
 .img-banner-pic {
 	float: right;
@@ -104,7 +105,7 @@ body{
 	margin-bottom: 1.5em;
 }
 .img-banner-info p{
-	width:75%;
+	width:70%;
 	float:right;
 	margin-top:1em;
 }
@@ -181,8 +182,8 @@ body{
 .icon2 span{
 	height: 50px;
 	width: 50px;
-	display: block;
-	background: url(../images/rpi.jpeg) /*no-repeat #F2F4F5 -102px -827px*/;
+/*	display: block;*/
+	background: url(../images/Consultancy.jpg) /*no-repeat #F2F4F5 -102px -827px*/;
 	vertical-align: middle;
 }
 /*

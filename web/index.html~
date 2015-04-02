@@ -49,8 +49,8 @@ License URL: http://www.gnu.org/copyleft/gpl.html
 	<div class="img-banner" id="home">
 		<div class="img-banner-info">
 			<h1><span>Thinglobe</span></h1>
-			<h2>Data storage smart app</h2>
-			<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.Sed ut  laudantium, totam rem aperiam.</p>
+			<h2>A Globe of Connected Things</h2>
+			<p> To stay ahead in the field of technology oriented product development and services, you need to have the knowledge of the latest developments in the field of Iot. We provide consultancy and training in field of Iot</p>
 			<div class="clear"> </div>
 			<div class="info-btns">
 			<!--	<ul>
@@ -72,19 +72,19 @@ License URL: http://www.gnu.org/copyleft/gpl.html
 		<div class="top-grid">
 			<a class="icon3" href="#"><span> </span> </a>
 			<h3>Training & Certification</h3>
-			<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,<label> et quasi architecto beatae vitae dicta sunt explicabo.</label></p>
+			<p>Get trained and certified on emerging IOT technologies spanning from hardware building to software applications.</label></p>
 		<!--	<a class="btn" href="#">Read more<span> </span></a> -->
 		</div>
 		<div class="top-grid">
 			<a class="icon2" href="#"><span> </span> </a>
-			<h3>Platforms</h3>
-			<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,<label> et quasi architecto beatae vitae dicta sunt explicabo.</label></p>
+			<h3>Consultancy</h3>
+			<p>Know about range of hardware and software platforms to kick start making your IOT applications.</label></p>
 		<!--	<a class="btn" href="#">Read more<span> </span></a>-->
 		</div>
 		<div class="top-grid">
 			<a class="icon1" href="#"><span> </span> </a>
-			<h3>Meetups</h3>
-			<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,<label> et quasi architecto beatae vitae dicta sunt explicabo.</label></p>
+			<h3>Blog</h3>
+			<p>Participate in our regular meet ups and discuss what is happening in and around the world in IOT. Get in touch with IOT enthusiasts and developpers from several parts of the world.</label></p>
 <!--			<a class="btn" href="#">Read more<span> </span></a> -->
 		</div>
 		<div class="clear"> </div>
@@ -98,8 +98,8 @@ License URL: http://www.gnu.org/copyleft/gpl.html
 			<div class="mid-grid-top-pic">
 			</div>
 			<div class="mid-grid-top-info">
-				<h3>Sed ut perspiciatis unde omnis iste natus error sit voluptatem</h3>
-				<p>adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur,</p>
+				<h3>IOT What & Why</h3>
+				<p>Putting it simply, IOT consists of devices (such as a sensor) which are connected to a machine in order to capture an event which in turn is relayed over a network delivering data to applications. These sensors are wirelessly connected to each other and the central server. They are able to receive and transmit the event data wirelessly via a central server where an Application translates this data into meaningful information. This information can be analysed further and can invoke appropiate response</p>
 			</div>
 			<div class="clear"> </div>
 		</div>
