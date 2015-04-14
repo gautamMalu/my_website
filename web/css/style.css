@@ -198,9 +198,24 @@ body{
 	height: 50px;
 	width: 50px;
 	display: block;
-	background: url(../images/Consultancy.jpg) /*no-repeat #F2F4F5 -102px -827px*/;
+	background: url(../images/consultancy.png) /*no-repeat #F2F4F5 -102px -827px*/;
 	vertical-align: middle;
 }
+
+.icon2 span:hover{
+
+	height: 50px;
+
+	width: 53px;
+
+	display: block;
+
+	background: url(../images/consultancy.png);
+
+	vertical-align: middle;
+
+}
+
 
 .icon3{
 	display: inline-block;
