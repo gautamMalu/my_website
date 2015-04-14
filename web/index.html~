@@ -70,7 +70,7 @@ License URL: http://www.gnu.org/copyleft/gpl.html
 	<div class="top-grids" id="features">
 	<div class="wrap">
 		<div class="top-grid">
-			<a class="icon3" href="#"><span> </span> </a>
+			<a class="icon1" href="#"><span> </span> </a>
 			<h3>Training & Certification</h3>
 			<p>Get trained and certified on emerging IOT technologies spanning from hardware building to software applications.</label></p>
 		<!--	<a class="btn" href="#">Read more<span> </span></a> -->
@@ -82,7 +82,7 @@ License URL: http://www.gnu.org/copyleft/gpl.html
 		<!--	<a class="btn" href="#">Read more<span> </span></a>-->
 		</div>
 		<div class="top-grid">
-			<a class="icon1" href="#"><span> </span> </a>
+			<a class="icon3" href="#"><span> </span> </a>
 			<h3>Blog</h3>
 			<p>Participate in our regular meet ups and discuss what is happening in and around the world in IOT. Get in touch with IOT enthusiasts and developpers from several parts of the world.</label></p>
 <!--			<a class="btn" href="#">Read more<span> </span></a> -->
@@ -118,7 +118,7 @@ License URL: http://www.gnu.org/copyleft/gpl.html
 		<div class="mid-grids-bottom" id="contact">
 			<div class="wrap">
 				
-				<h3>Feel free to contact us <br> info@thinglobe.com <br> +91 9052495433</h3>
+				<h3>Feel free to contact us <br> info@thinglobe.com <br> +91 9985680789</h3>
 				                                                         
 		<!--		<form>
 					<input type="text" class="textbox" value="Your email plase?" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Your email plase?';}"><input type="submit" value="Send" />

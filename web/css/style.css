@@ -137,6 +137,7 @@ body{
 	padding: 5em 0;
 	margin: 2px 0;
 }
+
 .icon1{
 	display: inline-block;
 	padding: 1.3em;
@@ -153,18 +154,32 @@ body{
 }
 .icon1 span{
 	height: 50px;
+
 	width: 53px;
+
 	display: block;
-	background: url(../images/img-sprit.png) no-repeat #F2F4F5 0px -879px;
+
+	background: url(../images/training.png); 
+
 	vertical-align: middle;
+
 }
+
 .icon1 span:hover{
+
 	height: 50px;
+
 	width: 53px;
+
 	display: block;
-	background: url(../images/img-sprit.png) no-repeat #F2F4F5 0px -879px;
+
+	background: url(../images/training.png);
+
 	vertical-align: middle;
+
 }
+
+
 .icon2{
 	display: inline-block;
 	padding: 1.3em;
@@ -186,49 +201,7 @@ body{
 	background: url(../images/Consultancy.jpg) /*no-repeat #F2F4F5 -102px -827px*/;
 	vertical-align: middle;
 }
-/*
-.icon2 span:hover{
-	height: 50px;
-	width: 53px;
-	display: block;
-	background: url(../images/rpi.png) no-repeat #F2F4F5 -102px -880px;
 
-	vertical-align: middle;
-
-}
-*/
-
-
-/*
-.icon2{
-	display: inline-block;
-	padding: 1.3em;
-	border-radius: 50%;
-	-webkit-border-radius: 50%;
-	-moz-border-radius: 50%;
-	-o-border-radius: 50%;
-	border: 1px dashed #000;
-	-webkit-transition: all 0.3s ease-out;
-	-moz-transition: all 0.3s ease-out;
-	-ms-transition: all 0.3s ease-out;
-	-o-transition: all 0.3s ease-out;
-	transition: all 0.3s ease-out;
-}
-.icon2 span{
-	height: 50px;
-	width: 53px;
-	display: block;
-	background: url(../images/img-sprit.png) no-repeat #F2F4F5 -102px -827px;
-	vertical-align: middle;
-}
-.icon2 span:hover{
-	height: 50px;
-	width: 53px;
-	display: block;
-	background: url(../images/img-sprit.png) no-repeat #F2F4F5 -102px -880px;
-	vertical-align: middle;
-}
-*/
 .icon3{
 	display: inline-block;
 	padding: 1.3em;
@@ -244,13 +217,13 @@ body{
 	transition: all 0.3s ease-out;
 }
 .icon3 span{
-	height: 50px;
+	height: 49px;
 
-	width: 53px;
+	width: 49px;
 
 	display: block;
 
-	background: url(../images/training.png); 
+	background: url(../images/blog.png); 
 
 	vertical-align: middle;
 
@@ -264,42 +237,13 @@ body{
 
 	display: block;
 
-	background: url(../images/training.png);
+	background: url(../images/blog.png);
 
 	vertical-align: middle;
 
 }
 
-/*
-.icon3{
-	display: inline-block;
-	padding: 1.3em;
-	border-radius: 50%;
-	-webkit-border-radius: 50%;
-	-moz-border-radius: 50%;
-	-o-border-radius: 50%;
-	border: 1px dashed #000;
-	-webkit-transition: all 0.3s ease-out;
-	-moz-transition: all 0.3s ease-out;
-	-ms-transition: all 0.3s ease-out;
-	-o-transition: all 0.3s ease-out;
-	transition: all 0.3s ease-out;
-}
-.icon3 span{
-	height: 50px;
-	width: 53px;
-	display: block;
-	background: url(../images/img-sprit.png) no-repeat #F2F4F5 -51px -828px;
-	vertical-align: middle;
-}
-.icon3 span:hover{
-	height: 50px;
-	width: 53px;
-	display: block;
-	background: url(../images/img-sprit.png) no-repeat #F2F4F5 -51px -881px;
-	vertical-align: middle;
-}
-*/
+
 .top-grid{
 	text-align:center;
 	width:31.33%;
