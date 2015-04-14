@@ -84,7 +84,7 @@ License URL: http://www.gnu.org/copyleft/gpl.html
 		<div class="top-grid">
 			<a class="icon3" href="#"><span> </span> </a>
 			<h3>Blog</h3>
-			<p>Participate in our regular meet ups and discuss what is happening in and around the world in IOT. Get in touch with IOT enthusiasts and developpers from several parts of the world.</label></p>
+			<p>Vist our blog for latest updates and news.</label></p>
 <!--			<a class="btn" href="#">Read more<span> </span></a> -->
 		</div>
 		<div class="clear"> </div>
@@ -103,13 +103,11 @@ License URL: http://www.gnu.org/copyleft/gpl.html
 			</div>
 			<div class="clear"> </div>
 		</div>
-		</div>
-		<iframe width="0" height="0" src="https://www.youtube.com/embed/PN_wbLCAW1Q" frameborder="0" allowfullscreen></iframe>
 		<div class="mid-grids-center" id="demo">
 			<div class="wrap">
-				<h3>Demo of our cloud app</h3>
-				<p> quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur,</p>
-				<iframe width="560" height="315" src="https://www.youtube.com/embed/PN_wbLCAW1Q" frameborder="0" allowfullscreen></iframe>
+				<h3>Demo </h3>
+				<h4> Coming Soon...</h4>
+				
 
 				
 			</div>
